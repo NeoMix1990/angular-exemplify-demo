@@ -52,6 +52,7 @@
     "protractor": "~5.4.0",
     "semantic-release": "^15.13.31",
     "travis-deploy-once": "^5.0.11",
+    "commit": "git-cz",
     "ts-node": "~7.0.0",
     "tsickle": "^0.37.0",
     "tslint": "~5.15.0",
