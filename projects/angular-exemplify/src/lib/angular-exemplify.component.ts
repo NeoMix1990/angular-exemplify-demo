@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'ex-angular-exemplify',
   template: `
     <p>
-      angular-exemplify works!
+      angular-exemplify works! oh we can win the race why not
     </p>
   `,
   styles: []
