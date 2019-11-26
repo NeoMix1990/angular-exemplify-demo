@@ -4,9 +4,13 @@ import { AngularExemplifyComponent } from './angular-exemplify.component';
 
 
 @NgModule({
-  declarations: [AngularExemplifyComponent],
+  declarations: [
+    AngularExemplifyComponent,
+  ],
   imports: [
   ],
-  exports: [AngularExemplifyComponent]
+  exports: [
+    AngularExemplifyComponent,
+  ],
 })
 export class AngularExemplifyModule { }
